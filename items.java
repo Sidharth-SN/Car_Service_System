@@ -233,29 +233,3 @@ class items{
 
 
 
-// public static void totalSales() throws IOException,NullPointerException,FileNotFoundException{
-// 	String c,i,b,ph1,name1,car_model1,pname,price;
-// 	System.out.println("\t<-------------------------------------------------------------------------->\n");
-// 	System.out.println("\t\t||Overall Sales||");
-// 	System.out.println("\t<-------------------------------------------------------------------------->\n");
-
-// 	BufferedReader br = new BufferedReader(new FileReader("customer-list.txt"));
-// 	while((c = br.readLine()) != null)
-// 		{
-// 			String[] result = c.split("\\|");
-// 			ph1 = result[0];
-// 			name1=result[1];
-// 			car_model1=result[3];
-// 		}
-// 	br.close();
-
-// 	BufferedReader br1 = new BufferedReader(new FileReader("item-list.txt"));
-// 	while((i = br.readLine()) != null)
-// 		{
-// 			String[] result = i.split("\\|");
-// 			pname=result[2];
-// 			price=result[3];
-// 		}
-
-	
-// }
