@@ -889,31 +889,10 @@ class carService {
 	System.out.println("");
 	System.out.println("\t\t\t\t\t\t\t****____Thank You for choosing Sports Vision!:)____****");
 
-
-
-	//obj1.totalSales(String ph, String name, String car_model,int sumTotal, ArrayList pn,ArrayList p,ArrayList q);
-	// class sale{
-	// 	void totalSales() {
-	// 		System.out.println("\t<------------------------------------------------------------------------------------>\n");
-	// 		System.out.println("\t\t\t\t\t||__Overall Sales__||\n");
-	// 		System.out.println("\t<------------------------------------------------------------------------------------>\n");
-	// 		System.out.print("  \t :>  Phone Number: "+ph+ "\t:>  Name: "+name+"\t:>  Car Model: "+car_model+ "\n");
-	// 		System.out.printf("\n\t\t| %-20s| %-8s| %-8s|\n","Part Name", "Price", "Quantity");
-	// 		System.out.println("\t\t+---------------------+---------+---------+");
-	// 		for(int i=0;i<p.size();i++){
-	// 			System.out.printf("\t\t| %-20s| %-8s| %-8s|\n",pn.get(i),p.get(i),q.get(i));
-	// 		}
-	// 		System.out.println("\n\t Total sale = Rs. "+sum);
-	// 		System.out.println("\t<------------------------------------------------------------------------------------>");
-
-	// 	}
-	// } 
-
 	pw2.flush();
 	pw2.close();
 	pw.flush();
 	pw.close();
-	// scan.close(); 
 	return;
 	}
 
